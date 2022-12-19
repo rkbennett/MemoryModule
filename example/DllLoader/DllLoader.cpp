@@ -10,7 +10,6 @@
 #include <tchar.h>
 #include <stdio.h>
 #include <malloc.h>
-#include <Python.h>
 
 #include "../../MemoryModule.h"
 
